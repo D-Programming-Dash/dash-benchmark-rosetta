@@ -1,0 +1,114 @@
+{
+    "name": "rosetta",
+    "changelog": [],
+    "tests": [
+        {
+            "name": "arbitrary_precision_integers_included",
+            "sourceFiles": ["arbitrary_precision_integers_included.d"]
+        },
+        {
+            "name": "count_the_coins3",
+            "sourceFiles": ["count_the_coins3.d"]
+        },
+        {
+            "name": "cut_a_rectangle",
+            "sourceFiles": ["cut_a_rectangle.d"]
+        },
+        {
+            "name": "execute_a_markov_algorithm",
+            "sourceFiles": ["execute_a_markov_algorithm.d"]
+        },
+        {
+            "name": "fibonacci_sequence2",
+            "sourceFiles": ["fibonacci_sequence2.d"]
+        },
+        {
+            "name": "fibonacci_word",
+            "sourceFiles": ["fibonacci_word.d"]
+        },
+        {
+            "name": "hamming_numbers1",
+            "sourceFiles": ["hamming_numbers1.d"]
+        },
+        {
+            "name": "hamming_numbers2",
+            "sourceFiles": ["hamming_numbers2.d"]
+        },
+        {
+            "name": "hamming_numbers3",
+            "sourceFiles": ["hamming_numbers3.d"]
+        },
+        {
+            "name": "kaprekar_numbers1",
+            "sourceFiles": ["kaprekar_numbers1.d"]
+        },
+        {
+            "name": "k_d_tree1",
+            "sourceFiles": ["k_d_tree1.d"]
+        },
+        {
+            "name": "k_d_tree2",
+            "sourceFiles": ["k_d_tree2.d"]
+        },
+        {
+            "name": "lucas_lehmer_test",
+            "sourceFiles": ["lucas_lehmer_test.d"]
+        },
+        {
+            "name": "monte_carlo_methods1",
+            "sourceFiles": ["monte_carlo_methods1.d"]
+        },
+        {
+            "name": "monte_carlo_methods2",
+            "sourceFiles": ["monte_carlo_methods2.d"]
+        },
+        {
+            "name": "paraffins",
+            "sourceFiles": ["paraffins.d"]
+        },
+        {
+            "name": "percolation_mean_cluster_density",
+            "sourceFiles": ["percolation_mean_cluster_density.d"]
+        },
+        {
+            "name": "percolation_mean_run_density",
+            "sourceFiles": ["percolation_mean_run_density.d"]
+        },
+        {
+            "name": "playfair_cipher",
+            "sourceFiles": ["playfair_cipher.d"]
+        },
+        {
+            "name": "prime_decomposition",
+            "sourceFiles": ["prime_decomposition.d"]
+        },
+        {
+            "name": "run_length_encoding4",
+            "sourceFiles": ["run_length_encoding4.d"]
+        },
+        {
+            "name": "self_describing_numbers1",
+            "sourceFiles": ["self_describing_numbers1.d"]
+        },
+        {
+            "name": "self_referential_sequence3",
+            "sourceFiles": ["self_referential_sequence3.d"]
+        },
+        {
+            "name": "sorting_algorithms_permutation_sort2",
+            "sourceFiles": ["sorting_algorithms_permutation_sort2.d"]
+        },
+        {
+            "name": "text_processing_2",
+            "sourceFiles": ["text_processing_2.d"]
+        },
+        {
+            "name": "total_circles_area",
+            "sourceFiles": ["total_circles_area.d"]
+        },
+        {
+            "name": "vampire_number1",
+            "sourceFiles": ["vampire_number1.d"]
+        }
+    ]
+}
